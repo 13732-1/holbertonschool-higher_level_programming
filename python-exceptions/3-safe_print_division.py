@@ -7,7 +7,8 @@ def safe_print_division(a, b):
         b (int): The denominator.
 
     Returns:
-        float: The result of the division, or None if a ZeroDivisionError occurs.
+        float: The result of the division, or None if a
+        ZeroDivisionError occurs.
     """
     result = None
     try:
